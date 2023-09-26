@@ -1,6 +1,6 @@
 .box-model{
 	width:300px;
-	background:#01aebf;
+	background:rgb(173, 216, 230);
 	border:15px solid blue;
 	padding:50px;
 	margin:20px;
